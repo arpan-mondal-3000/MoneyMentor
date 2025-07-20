@@ -108,7 +108,7 @@ export default function MoneyMentor() {
       <div className="container mx-auto p-4 max-w-6xl">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">💰 MoneyMentor</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-2">MoneyMentor</h1>
           <p className="text-lg text-gray-600">Smart Personal Finance for Students</p>
         </div>
 
